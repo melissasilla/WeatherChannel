@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 19th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Melissa Silla
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this extra credit assignment, we learned to use an API, AJAX, and JSON to build a weather application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://melissasilla.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. API
+2. JSON
+3. AJAX
